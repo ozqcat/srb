@@ -24,7 +24,7 @@ spring:
         min-idle: 0     #最小空闲连接，默认0
 yuntongxun:
   sms:
-    account-sid: 8aaf07087d794e6c017d7ab3caa300671
-    account-token: 5180d4697d83460d965727a1cad96b371
-    app-id: 8aaf07087d794e6c017d7ab3cbb2006e1
-    template-id: 1
+    account-sid: 你的account-sid
+    account-token: 你的account-token
+    app-id: 你的app-id
+    template-id: 你的template-id
